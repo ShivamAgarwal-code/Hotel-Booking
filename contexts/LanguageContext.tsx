@@ -26,7 +26,7 @@ const DEFAULT_SUPPORTED_LANGUAGES: SupportedLanguage[] = [
 ]
 
 // Google Translate API configuration
-const GOOGLE_TRANSLATE_API_KEY = "AIzaSyCGX0MOwqUgNK5kHf1YkoyMLW9bf7oeCaQ"
+const GOOGLE_TRANSLATE_API_KEY = ""
 const GOOGLE_TRANSLATE_URL = "https://translation.googleapis.com/language/translate/v2"
 const GOOGLE_LANGUAGES_URL = "https://translation.googleapis.com/language/translate/v2/languages"
 
